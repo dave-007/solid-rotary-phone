@@ -28,6 +28,8 @@ npm run lint     # Run ESLint
 
 When working with Convex:
 
+ALWAYS read convex_rules.txt before making changes.
+
 ### Function Syntax
 Always use the new function syntax with argument and return validators:
 ```typescript
