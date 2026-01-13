@@ -1,3 +1,8 @@
+---
+name: bug
+description: Create a plan for fixing a bug
+---
+
 # Bug Planning
 
 Create a new plan in specs/*.md to resolve the `Bug` using the exact specified markdown `Plan Format`. Follow the `Instructions` to create the plan use the `Relevant Files` to focus on the right files.

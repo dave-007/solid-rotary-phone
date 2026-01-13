@@ -1,3 +1,8 @@
+---
+name: implement
+description: Implement a feature from a spec file
+---
+
 # Implement the following plan
 Follow the `Instructions` to implement the `Plan` then `Report` the completed work.
 

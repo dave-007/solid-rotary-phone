@@ -1,3 +1,8 @@
+---
+name: install
+description: Install and configure a new dependency
+---
+
 # Install & Prime
 
 ## Read and Execute

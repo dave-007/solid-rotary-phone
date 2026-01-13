@@ -1,3 +1,8 @@
+---
+name: chore
+description: Create a plan for a maintenance chore
+---
+
 # Chore Planning
 
 Create a new plan in specs/*.md to resolve the `Chore` using the exact specified markdown `Plan Format`. Follow the `Instructions` to create the plan use the `Relevant Files` to focus on the right files.

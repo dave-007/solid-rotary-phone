@@ -1,3 +1,8 @@
+---
+name: feature
+description: Create a feature plan for implementing a new feature
+---
+
 # Feature Planning
 
 Create a new plan in specs/*.md to implement the `Feature` using the exact specified markdown `Plan Format`. Follow the `Instructions` to create the plan use the `Relevant Files` to focus on the right files.
